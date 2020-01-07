@@ -1,0 +1,49 @@
+.time-container {
+  text-align: center;
+}
+.time-inner-container {
+  display: inline-block;
+}
+.time-digits {
+  font-size: 4em;
+  text-align: center;
+}
+.time-text {
+  display: flex;
+  justify-content: space-around;
+  color: grey;
+}
+.tel{
+  width: 280px;
+  height:410px;
+ 
+  display: block;
+  padding-top: 100px;
+  padding-left:115px;
+  background-image: url("https://image.flaticon.com/icons/png/512/65/65756.png");
+  
+}
+.buttons{
+padding-top: 50px;
+padding-left:20px;
+width:230px;
+display: flex;
+justify-content: space-around;
+
+}
+.start{
+width:100px;
+height: 30px;
+background-color: transparent;
+border-radius: 5px;
+border:2px solid palevioletred;
+color:palevioletred;
+}
+.reset{
+  width:100px;
+  height: 30px;
+  background-color: transparent;
+  border-radius: 5px;
+  border:2px solid black;
+  color:black;
+}
